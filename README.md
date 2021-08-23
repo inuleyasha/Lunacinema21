@@ -41,3 +41,5 @@ The android app builds with native java.
 - **[FACEBOOK](https://www.facebook.com/lunacinema21)**
 
 - **[TWITTER](https://twitter.com/lunacinema21)**
+
+- **[TELEGRAM](https://t.me/lunacinema21)**
